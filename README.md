@@ -27,6 +27,7 @@ Presentation Video: https://drive.google.com/file/d/1wmVqfAlxEOLQZUlN8vrULHwxUnr
 Demo Video: https://drive.google.com/file/d/1P5kktxvFuQH7qQbnnDCDJqMf3mDzXCre/view?usp=sharing![image](https://github.com/user-attachments/assets/712625e2-c8c4-4583-baba-cca5a49ff1b5)
 
 # Appendix
-https://drive.google.com/drive/folders/1aJVzGv0mvJo3ip_35L_O06XDy1Bbn9ET
+-appsheet data
+-appsheet pictures
 https://drive.google.com/drive/folders/1aJVzGv0mvJo3ip_35L_O06XDy1Bbn9ET
 
