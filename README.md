@@ -5,7 +5,7 @@ FindEats :fork_and_knife: is an innovative solution designed using Google Apps S
 2. Direct Messaging & Calling with Restaurant :telephone_receiver:
 3. Detailed Menus :ledger:
 4. Interactive Maps :world_map:
-5. Personalized Filter 	:sparkles:
+5. Personalized Filter :100:
 6. Reservation Function :bellhop_bell:
 7. Likes and Save Features :heart:
 8. User Reviews and Comments :speak_no_evil:
