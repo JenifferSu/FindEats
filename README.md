@@ -17,8 +17,6 @@ FindEats :fork_and_knife: is an innovative solution designed using **Google Apps
 
 # Google Apps Script 
 Inside the appscripts source code folder :https://github.com/saladbkp/FindEats/tree/main/appscript%20source%20code
-# AppSheet Link: 
-https://www.appsheet.com/newshortcut/c4cc6038-3c5a-4d42-8ed8-d93f4bb5d360
 # Notion Link: 
 https://www.notion.so/Foodie-Notion-Calendar-da46fad496904653b2d34b5fd867d0cd?pvs=4 
 # Demo Videos Link:
